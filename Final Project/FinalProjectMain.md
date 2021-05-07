@@ -14,9 +14,13 @@ that people naturally use in email.
 
 > I like turtles
 
-## Tech
+### Tech
 
 Some stuff about me
-**MIZ-ZOU!**
-[a relative link](FinalProject1.md)
+
+[Page One](FinalProject1.md)
+
+Final Project Folder in Repository
 [GitHub Repo]https://github.com/smf5w4/IT1000/tree/main/Final%20Project
+
+**MIZ-ZOU!**
