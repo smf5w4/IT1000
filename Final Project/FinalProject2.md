@@ -8,6 +8,6 @@
    1. Item 3b
    2. Item 3c
 
-[a relative link](FinalProjectMain.md)
+[Home Page](FinalProjectMain.md)
 
 **MIZ-ZOU!**
