@@ -19,4 +19,4 @@ that people naturally use in email.
 Some stuff about me
 **MIZ-ZOU!**
 [a relative link](FinalProject1.md)
-[GitHub](http://github.com)
+[GitHub Repo]https://github.com/smf5w4/IT1000/tree/main/Final%20Project
