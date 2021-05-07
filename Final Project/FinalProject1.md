@@ -8,6 +8,6 @@ a = float(input("Enter the rate of acceleration as a decimal: "))
 t = float(input("Enter the time (seconds): "))
 xf = x0 + v0*t + 0.5*a*t*t
 print("\nThe objects final position is: ", xf)
-[a relative link](FinalProject.md)
+[a relative link](FinalProjectMain.md)
 
 **MIZ-ZOU!**
