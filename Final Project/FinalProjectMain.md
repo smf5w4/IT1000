@@ -18,9 +18,9 @@ that people naturally use in email.
 
 Some stuff about me
 
-[Page One](FinalProject1.md)
-[Page Two](FinalProject2.md)
-[Page Three](FinalProject3.md)
+[Page One](FinalProject1.md),
+[Page Two](FinalProject2.md),
+[Page Three](FinalProject3.md),
 [Page Four](FinalProject4.md)
 
 Final Project Folder in Repository
