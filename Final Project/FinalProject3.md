@@ -5,6 +5,9 @@
 
 [Link for image above](https://www.formula1.com/en/latest/article.verstappen-realistic-about-2021-title-chances-as-he-hopes-to-make-life-more.4ZJIVgfSdRkKiRRBMpF7t5.html)
 
-[Home Page](FinalProjectMain.md)
+[Home Page](FinalProjectMain.md),
+[Page One](FinalProject1.md),
+[Page Two](FinalProject2.md),
+[Page Four](FinalProject4.md)
 
 **MIZ-ZOU!**
