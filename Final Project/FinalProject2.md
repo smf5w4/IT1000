@@ -8,6 +8,9 @@ Balloons are pretty and come in different colors, different shapes, different si
 
 Paragraphs generated from [here!](https://randomwordgenerator.com/paragraph.php)
 
-[Home Page](FinalProjectMain.md)
+[Home Page](FinalProjectMain.md),
+[Page One](FinalProject1.md),
+[Page Three](FinalProject3.md),
+[Page Four](FinalProject4.md)
 
 **MIZ-ZOU!**
