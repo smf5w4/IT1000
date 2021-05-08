@@ -12,6 +12,9 @@
 
 ![Chicago River](https://github.com/smf5w4/IT1000/blob/main/Final%20Project/IMG_6857.JPG)
 
-[Home Page](FinalProjectMain.md)
+[Home Page](FinalProjectMain.md),
+[Page One](FinalProject1.md),
+[Page Two](FinalProject2.md),
+[Page Three](FinalProject3.md)
 
 **MIZ-ZOU!**
