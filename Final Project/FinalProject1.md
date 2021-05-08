@@ -11,6 +11,9 @@ xf = x0 + v0*t + 0.5*a*t*t
 print("\nThe objects final position is: ", xf)
 ```
 
-[Home Page](FinalProjectMain.md)
+[Home Page](FinalProjectMain.md),
+[Page Two](FinalProject2.md),
+[Page Three](FinalProject3.md),
+[Page Four](FinalProject4.md)
 
 **MIZ-ZOU!**
