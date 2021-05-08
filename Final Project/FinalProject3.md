@@ -1,12 +1,7 @@
 # IT 1000 Final Project
 ### _Sean Fetz - University of Missouri_
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
-   2. Item 3c
+![Let's go Redbull!](https://www.autosport.com/f1/news/how-verstappen-and-hamiltons-imola-clash-sets-the-tone-for-f1s-2021-title-fight/6369459/)
 
 [Home Page](FinalProjectMain.md)
 
