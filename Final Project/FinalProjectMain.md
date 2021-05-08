@@ -1,7 +1,7 @@
 # IT 1000 Final Project
 ## _Sean Fetz - University of Missouri_
 
-![Where I would rather be right now](/IMG_6857.JPG)
+![Where I would rather be right now](Final Project/IMG_6857.JPG)
 
 [Page One](FinalProject1.md),
 [Page Two](FinalProject2.md),
